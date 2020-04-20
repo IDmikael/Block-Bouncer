@@ -22,6 +22,7 @@ Gameplay video stored under Video directory.
 ### Main menu and Pause menu
 
 ![](https://github.com/IDmikael/Block-Bouncer/blob/master/Screenshots/Screenshot_6.png)  |  ![](https://github.com/IDmikael/Block-Bouncer/blob/master/Screenshots/Screenshot_2.png)
+ :-------------------------:|:-------------------------:
 
 ### Gameplay
 
